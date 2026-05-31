@@ -21,7 +21,7 @@
 ### Links
 
 - Solution URL: [Solution](https://github.com/shaheerahmedkhan11/social-media-dashboard-with-theme-switcher)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://your-live-site-url.com)
 
 ## My process
 
@@ -36,8 +36,8 @@
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/)
-- [Example resource 2](https://css-tricks.com/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [CSS Tricks](https://css-tricks.com/)
 
 ## Author
 
