@@ -15,11 +15,12 @@
 ### Screenshot
 
 ![Screenshot](./screenshot.png)
+
 ![Dark Mode](./darkmode-screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://github.com/shaheerahmedkhan11/social-media-dashboard-with-theme-switcher)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
